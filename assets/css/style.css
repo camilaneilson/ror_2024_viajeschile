@@ -1,0 +1,47 @@
+
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: deepskyblue;
+    }
+#quien{
+    color: aliceblue;
+}
+#logo_viajes{
+    color: aliceblue;
+}
+#escrito{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+#letras{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+
+}
+#formulario{
+    background-color: black;
+    color: aliceblue;
+}
+#Destacados{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+#contacto{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+footer{
+    background-color: aqua;
+    color: aliceblue;
+}
+    
