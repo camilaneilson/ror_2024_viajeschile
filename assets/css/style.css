@@ -1,47 +1,53 @@
 
-body{
-    background-color: black;
-    color: aliceblue;
+body {
+    background-color:#000;
+    background-size: cover;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-nav{
-    background-color: deepskyblue;
-    }
-#quien{
+  #letrasnav {
+    text-align: end;
+    color: aliceblue;
+  }
+#quien {
     color: aliceblue;
 }
-#logo_viajes{
+#logo_viajes {
     color: aliceblue;
 }
-#escrito{
-    background-color: black;
+#escrito {
+    background-color: #000;
+    background-size:cover;
     color: aliceblue;
     text-align: center;
+    margin-top: 20px;
 }
-#letras{
-    background-color: black;
+#letras {
     color: aliceblue;
     text-align: center;
 
 }
-#formulario{
+#formulario {
     background-color: black;
     color: aliceblue;
+    margin: top 10px;
+    margin: 0px;
+
 }
-#Destacados{
-    background-color: black;
+#Destacados {
     color: aliceblue;
     text-align: center;
 }
+
 #contacto{
-    background-color: black;
+
     color: aliceblue;
     text-align: center;
 }
 
-footer{
+footer {
     background-color: aqua;
     color: aliceblue;
+    text-align: center;
 }
     
